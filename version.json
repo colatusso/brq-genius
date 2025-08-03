@@ -1,8 +1,8 @@
 {
-    "version": "1.0.11",
+    "version": "1.0.13",
     "download_url": "https://github.com/user/repo/fallback.zip",
-    "download_url_windows": "https://brq-my.sharepoint.com/:u:/p/rafaelcolatusso/EcixwLR5TVFLmnSJVru1hnEB73vKq-3x-12zAZj_G1QOMw?e=0iLKKf",
-    "download_url_mac": "https://brq-my.sharepoint.com/:u:/p/rafaelcolatusso/EeghIgd8K_hCg727ObWDvQ4BZtoVMP0oe7HQylwlzxUJPQ?e=VWLxK7",
+    "download_url_windows": "https://brq-my.sharepoint.com/:u:/p/rafaelcolatusso/Ec7vdYGhfgdJscyY_2b0kCcBIuBl1_N1qjmpLlxiuavHOg?e=LaqNSp",
+    "download_url_mac": "https://brq-my.sharepoint.com/:u:/p/rafaelcolatusso/ETb3VZcRxPVOhM8dUcabVY0B_wTjqreAEjo5HDNDWrzLcQ?e=gb4Z9O",
     "release_notes": "",
     "required": false
 }
