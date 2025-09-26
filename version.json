@@ -1,8 +1,8 @@
 {
-    "version": "1.0.15",
-    "download_url": "https://github.com/user/repo/fallback.zip",
-    "download_url_windows": "https://brq-my.sharepoint.com/:u:/p/rafaelcolatusso/Ef1NKp6vpuROoLdcD83O45UBr4OJQdGXCxQ99bpKno352A?e=GedsIr",
-    "download_url_mac": "https://brq-my.sharepoint.com/:u:/p/rafaelcolatusso/EdKWSEQHQoZDhVYPcPiFviMBoVy1kttRWQDkXMRlrE9pCg?e=h1JGoJ",
-    "release_notes": "",
+    "version": "1.0.28",
+    "download_url": "https://brq-my.sharepoint.com/:u:/p/rafaelcolatusso/EfqgIaNgeX5HjKsMC8c5lFsBWB05d9mmTSTh4nG6rwlUCg?e=MNdCmx",
+    "download_url_windows": "https://brq-my.sharepoint.com/:u:/p/rafaelcolatusso/EXndQPykbLxElkm1QSnNK9sBY7USL_3A6M6QstRosdNXsQ?e=8nbHoF",
+    "download_url_mac": "https://brq-my.sharepoint.com/:u:/p/rafaelcolatusso/EZSSdmPKfLxLkse0zK63ow8B1z-9YAEATVviQRGjm0Z9-w?e=FmhfBf",
+    "release_notes": "🚀 BRQ Genius v1.0.28 - Release Notes\n\n  🔐 Novo Sistema de Login\n  - Login com e-mail BRQ: Autenticação direta com credenciais corporativas, sem mais API keys manuais\n\n  🤖 Agentes Fusion Integrados\n  - Seus agentes disponíveis: Acesso direto aos agentes criados no Fusion Studio\n  - Seleção dinâmica: Escolha o agente ideal durante conversas\n\n  📚 Base de Conhecimento do Fusion\n  - Busca inteligente: Acesse informações de bases corporativas diretamente no chat\n\n  📄 Geração de Documentos\n  - Criação de DOCX: Gere documentos Word formatados automaticamente, é só pedir para a IA\n - Exportação de conversas: Salve chats completos em DOCX\n\n  🧮 Ferramenta de Cálculo\n  - Cálculos precisos: Operações matemáticas complexas com segurança\n  - Análise de dados: Processe números e estatísticas durante conversas\n\n  🌐 Leitura de URLs\n  - Análise de sites: Ferramenta para ler e analisar conteúdo web automaticamente\n  - Extração inteligente: Captura informações relevantes de páginas\n\n  🎨 Melhorias de Interface\n  - Chat renomeável: Edite nomes das conversas\n  - Menu de opções (⋯): Exportar, renomear e gerenciar conversas\n  - Layout otimizado: Melhor aproveitamento do espaço\n\n  👥 Novos Perfis de Usuário\n  - Backoffice: Workflows para padronização de CVs, análise de contratos e onboarding\n  - Marketing: Ferramentas para criação de personas, campanhas e conteúdo\n\n  🔒 Melhorias de Estabilidade\n  - Performance: Otimizações significativas no carregamento\n  - Correções: Diversos bugs corrigidos para maior estabilidade",
     "required": false
 }
